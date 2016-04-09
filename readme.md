@@ -18,3 +18,7 @@ const msg = require('msgbox');
 // Send message to console
 msg('The title', 'And here goes your message.');
 ```
+
+## Related
+
+* [msgbox-cli](https://github.com/bramkok/msgbox-cli) CLI for this module
